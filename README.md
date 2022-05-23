@@ -18,6 +18,7 @@ The program will be split into a couple differeent sections
 -The back end
 
 ### Front End
+
 Now, I'm not much of a front end guy, so don't expect any sick UIs, this will be a terminal based application. The front end will consist mainly (entirely) of a terminal based interface. 
 
 ### Back end
