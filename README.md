@@ -10,12 +10,14 @@ My goals of the project are:
 -Learn to embed python in C++ for future projects
 
 As you can see this project is mainly a personal one, not intended for _serious_ use, however I am developing it as if it were a serious program. Practice like you play, eh?
+----
 
 ## Form and Function of TDinC
 
 The program will be split into a couple differeent sections
 -The front end
 -The back end
+
 ----
 ### Front End
 Now, I'm not much of a front end guy, so don't expect any sick UIs, this will be a terminal based application. The front end will consist mainly (entirely) of a terminal based interface. 
