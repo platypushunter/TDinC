@@ -1,6 +1,6 @@
 # TDinC
 
-This is a program based on my [pythonTrader](https://github.com/platypushunter/pythonTrader) application
+This is a program based on my [pythonTrader](https://github.com/platypushunter/pythonTrader) application developed to combine the ease of use of the [td-ameritrade-api](https://github.com/areed1192/td-ameritrade-api) for python with the high octane C/C++.
 
 ## My Goals
 
