@@ -9,7 +9,7 @@ My goals of the project are:
 -Grasp an understanding of cross platform development
 -Learn to embed python in C++ for future projects
 
-As you can see this project is mainly a personal one, not intended for _serious_ use, however I am developing it as if it were a serious program. Practice like you play, eh?
+As you can probably see this project is mainly a personal one, not intended for _serious_ use, however I am developing it as if it were a serious program. Practice like you play, eh?
 
 ## Form and Function of TDinC
 
